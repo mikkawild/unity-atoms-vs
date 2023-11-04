@@ -13,7 +13,6 @@
   },
     "dependencies": {
       "com.unity.visualscripting": "1.9.1",
-      "com.unity-atoms": "4.4.8",
       "com.realitystop.linkmerge": "1.0.0"
     }
 }
